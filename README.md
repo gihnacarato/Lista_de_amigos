@@ -3,9 +3,9 @@
  
  Olá pessoal!
 
-Nesse projeto eu desenvolvi um site com as linguagens PHP, HMTL e CSS3. Nesse repositório temos uma tela de login (imagem 01) para o usuário logar. Após o login, aparecerá uma tela (imagem 02) de confirmação do login, caso ao contrário teremos uma tela (imagem 03) com uma imagem de "Login inválido" e um botão que redirecionará o usuário para tela de login novamente.
+Nesse projeto eu desenvolvi um site com as linguagens PHP, HTML e CSS3. Nesse repositório temos uma tela de login (imagem 01) para o usuário logar. Após o login, aparecerá uma tela (imagem 02) de confirmação do login, caso ao contrário teremos uma tela (imagem 03) com uma imagem de "Login inválido" e um botão que redirecionará o usuário para tela de login novamente.
 Após o login, o usuário é redirecionado para a tela principal (imagem 04) para selecionar as opções: "Adicionar" e "Lista de Amigos". Na tela "Adicionar" (imagem 05) nós adicionamos dados do amigo ao banco de dados. Após a confirmação dos cadastro do amigo, é mostrado uma tela de confirmação (imagem 06). 
-Ao selecionar a opção "Listar" o uusário é direiconado para uma tela (imagem 07) onde temos a listagem de amigos com dois botões: excluir e atualizar. No botão de atualizar, o usuário é direcionado para a tela (imagem 08) para efetuar a atualização de dados do amigo cadastrado. Após a exclusão, é mostrado uma tela de confirmação (imagem 06) . Já no botão excluir, o usuário é direcionado para a tela (imagem 09) para efetuar a exclusão do amigo cadastrado. Após a exclusão, é mostrado uma tela de confirmação (imagem 10)
+Ao selecionar a opção "Listar" o uusário é direiconado para uma tela (imagem 07) onde temos a listagem de amigos com dois botões: excluir e atualizar. No botão de atualizar, o usuário é direcionado para a tela (imagem 08) para efetuar a atualização de dados do amigo cadastrado. Após a exclusão, é mostrado uma tela de confirmação (imagem 06) . Já no botão excluir, o usuário é direcionado para a tela (imagem 09) para efetuar a exclusão do amigo cadastrado. Após a exclusão, é mostrado uma tela de confirmação (imagem 10).
 
 
 ![Login](https://user-images.githubusercontent.com/82912476/140823533-1545bc7c-a4b1-471d-9562-ce84306c489c.png)
