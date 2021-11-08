@@ -3,7 +3,7 @@
 
 <?php require_once ('cabecalho.php'); ?>
 
-<link rel="stylesheet" href="Style_listar.css">
+<link rel="stylesheet" href="style_lista.css">
 
 <div class="btnVoltar">
   <a href="escolha.php" class="w3-display-topleft">
@@ -21,7 +21,7 @@
  
   <table class="w3-table-all w3-centered">
     <thead>
-      <tr class="w3-center" style="background-color:#e76f51; color:black" >
+      <tr class="w3-center" style="background-color:#6c757d; color:white" >
         <th>Código</th>
         <th>Nome</th>
         <th>Apelido</th>

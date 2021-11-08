@@ -13,7 +13,7 @@ div.container{
 }
 
 div.titulo{
-background-color: #457b9d;
+background-color: #6358DC;
 margin-bottom: 30px;
 margin-top: 0px;
 border-radius: 5px;
@@ -32,13 +32,16 @@ color:#457b9d;
 }
 table.table th{
     text-align: center; 
-    background-color: #E63946
+    background-color: #E63946;
 }
 
 
 div.nome, .codigo,.email,.excluir,.atualizar,.apelido{
     width:160px;
 
+}
+div.btnVoltar{
+    color:#6358DC;
 }
    
            

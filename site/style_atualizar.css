@@ -19,9 +19,9 @@ div.container{
 
 h1.titulo{
     position: absolute;
-    left: 76px;
-    right: 76px;
-    top: 5.9%;
+    left: 123px;
+    right: 123px;
+    top: 50px;
     bottom: 67.97%;
     font-family: Work Sans, sans-serif;
     font-style:normal;
@@ -30,35 +30,32 @@ h1.titulo{
     line-height: 135.5%;
     color: #6358DC;
 }
-input.caixa_id{
-    position: absolute;
-    width: 420px;
-    height: 50px;
-    left: 65px;
-    right: 65px;
-    top: 160px;
-    background: #f3f2f2;
-    border-radius: 8px;
-    border-color: transparent;
-    }
-    
+   
 input.caixaN{
     position: absolute;
     width: 420px;
     height: 50px;
-    left: 65px;
-    top: 275px;
+    left: -62.5px;
+    font-family: Work Sans, sans-serif;
+    font-style:normal;
+    font-weight: 500;
+    font-size: 15px;
+    top: 140px;
     background: #f3f2f2;
     border-radius: 8px;
     border-color: transparent;
-        }
+    }
 
 input.caixaA{
     position: absolute;
     width: 420px;
     height: 50px;
-    left: 65px;
-    top: 390px;
+    left: -62.5px;
+    top: 265px;
+    font-family: Work Sans, sans-serif;
+    font-style:normal;
+    font-weight: 500;
+    font-size: 15px;
     background: #f3f2f2;
     border-radius: 8px;
     border-color: transparent;
@@ -68,8 +65,12 @@ input.caixaE{
     position: absolute;
     width: 420px;
     height: 50px;
-    left: 65px;
-    top: 505px;
+    left: -62.5px;
+    font-family: Work Sans, sans-serif;
+    font-style:normal;
+    font-weight: 500;
+    font-size: 15px;
+    top: 390px;
     background: #f3f2f2;
     border-radius: 8px;
     border-color: transparent;
@@ -77,8 +78,8 @@ input.caixaE{
 button{
     width: 420px;
     height: 50px;
-    left: 65px;
-    top: 550px;
+    left: -62.5px;
+    top: 500px;
     background: #6358DC;
     color: white;
     border-radius: 8px;
@@ -87,22 +88,23 @@ button{
     position: absolute;
     font-weight: 500;
     margin-top: 25px;
-    margin-top: 50px;
     cursor: pointer;
     transition: all 0.3s ease;
+    font-size: 20px;
     }
     
-    button:hover {
+button:hover {
     letter-spacing: 0.5px;
-    font-weight: 900;
+    font-weight: 500;
     background:  transparent;
     color: #6358DC;
-    }
-    div.btnVoltar{
-        color:#6358DC;
-        }
+}
+
+div.btnVoltar{
+    color:#6358DC;
+}
         
-        img.image_sucesso{
-        margin-left: 500px;
-        top: 20px;
-        }
+img.image_sucesso{
+    margin-left: 500px;
+    top: 20px;
+ }

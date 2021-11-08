@@ -1,6 +1,6 @@
 <?php require_once ('cabecalho.php'); ?>
 <title>Login</title>
-<link rel="stylesheet" href="">
+<link rel="stylesheet" href="style_index.css">
     <?php
     session_start();    
     $nome = $_POST['txtnome'];

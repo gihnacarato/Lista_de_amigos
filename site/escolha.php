@@ -1,19 +1,24 @@
 <?php require_once ('cabecalho.php'); ?>
 <title>Opções</title>
-<link rel="stylesheet" href="Style_escolha.css">
+<link rel="stylesheet" href="Style_opcao.css">
 
 <div class="container">
 
-<div class="titulo">
-<h1> Projeto Lista de Amigos</h1></div>
+
+<h1> Projeto Lista de Amigos</h1>
+
 <div class = "caixas">
+
   <div class= "caixa1">
+
   <a href="cadastro.php" style="text-decoration: none;">
-    <img src="Imagens/add_people.svg">
+    <img class="add" src="Imagens/icone_add.png">
     <p class="txtadd">Adicionar </p></div>
+
     <div class= "caixa2">
     <a href="listar.php" style="text-decoration: none;">
-    <img src="Imagens/list.svg">
+    <img class="listar" src="Imagens/list.png">
     <p class="txtlistar">Listar </p></div>
+
 </div>
 <?php require_once ('rodape.php'); ?>

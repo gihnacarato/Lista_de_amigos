@@ -1,35 +1,27 @@
 <?php require_once ('cabecalho.php'); ?>
-<link rel="stylesheet" href="Style_login.css">
+<link rel="stylesheet" href="style_index.css">
 <title>Login </title>
-<link rel="stylesheet" href="style_login.css">
 </head>
 <body>
 
 <div class="container">
-    <h1>Login</h1>
-        <form action="loginAction.php" method="post">
-            <div class="container2">
-                <div class="usuario">
-                    <h2> Usuário </h2> 
-                    <input class="nome" type="text" name="txtnome" id="username"
-                    placeholder="Digite o nome">
-                        <div class="underline"></div>
-                    </div>
-            <div class="senha">
-                <h2> Senha </h2> 
-                <input class="senha" type="password" name="txtsenha" id="password" placeholder="Digite a senha">
-                    <div class="underline"></div>
-            </div>
-                </div>
+    <h1 class="titulo" >Bem vindo a</h1>
+    <p>Lista de Amigos</p>
+        
+    <form action="loginAction.php" method="post">
+        <input class="nome" type="text" name="txtnome" id="username"
+        placeholder="   Digite o nome">
 
-            <input class="botao" type="submit" value= "Entrar" id="button">
+        <input class="senha" type="password" name="txtsenha" id="password" placeholder="    Digite a senha">
+
+        <input class="botao" type="submit" value="Entrar" id="button">
+
+
         </form>
 
+            <h3> Você não possui uma conta?</h3> <a class="registrar" href="url">Registra-se</a>
 </div>
  
-  <img src="Imagens/imageLogin.png">
+                <img src="Imagens/image_login.png">
     
 <?php require_once ('rodape.php'); ?>
-
-
-

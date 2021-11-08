@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2? family = Work + Sans & display = swap');
+
+
+body {
+    background: #f3f2f2;
+}
+
+div.container{
+position: absolute;
+left: 52.92%;
+right: 5.47%;
+top: 16.6%;
+bottom: 16.6%;
+background: #FFFFFF;
+box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.08);
+border-radius: 8px;
+}
+img{
+    position: absolute;
+    left: 9.01%;
+    right: 57.65%;
+    top: 18.81%;
+    bottom: 18.75%;
+}
+h1.titulo{
+    position: absolute;
+    left: 6.25%;
+    top: 5.9%;
+    bottom: 67.97%;
+    font-family: Work Sans, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 135.5%;
+    color: #2F2F2F;
+}
+p{
+    position: absolute;
+    left: 6.25%;
+    right: 24.01%;
+    top: 6.78%;
+    bottom: 68.16%;
+    font-family: Work Sans, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 135.5%;
+    color: #6358DC;
+}
+
+input.nome{
+position: absolute;
+width: 671px;
+height: 77px;
+left: 6.25%;
+top: 200px;
+background: #f3f2f2;
+border-radius: 8px;
+border-color: transparent;
+}
+
+input.senha{
+    position: absolute;
+    width: 671px;
+    height: 77px;
+    left: 6.25%;
+    top: 320px;
+    background: #f3f2f2;
+    border-radius: 8px;
+    border-color: transparent;
+    }
+
+input.botao{
+    position: absolute;
+    width: 671px;
+    height: 50px;
+    left: 6.25%;
+    top: 430px;
+    background: #6358DC;
+    border-radius: 8px;
+    border-color:transparent;
+    font-family: Work Sans, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color:white;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+input.botao:hover {
+    letter-spacing: 0.5px;
+    font-weight: 500;
+    background:  transparent;
+    color: #6358DC;
+}
+a.registrar{
+    position: absolute;
+    width: 341px;
+    height: 23px;
+    left: 58.5%;
+    top: 530px;
+    font-family: Work Sans, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 135.5%;
+    color: #6358DC;
+    cursor: pointer;
+}
+
+
+img.image_erro{
+    position:absolute;
+    left: 570px;
+    right: 570px; 
+    top: 100px;
+    width: 45%;
+}
+
+h3{
+    position: absolute;
+    width: 341px;
+    height: 23px;
+    left: 32%;
+    top: 520px;
+    font-family: Work Sans, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 135.5%;
+    color: #000000;
+}
+
+
