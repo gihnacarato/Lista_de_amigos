@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2? family = Work + Sans & display = swap');
+
+div.container{
+    
+position: absolute;
+left: 690px;
+top: 200px;
+width: 500px;
+height: 450px;
+margin-bottom: 30px ;
+   
+}
+div.titulo{
+background-color: #457b9d;
+margin-bottom: 30px;
+margin-top: 0px;
+border-radius: 5px;
+color: white;
+font-family:  Work Sans, sans-serif;
+font-size: 50px;
+line-height: 77px;
+}
+
+input.caixa_id{
+font-family:  Work Sans, sans-serif;
+font-size: 15px;  
+color: black;
+border: none;
+border-bottom: 0.5px solid #457b9d;
+width: 350px;
+}
+
+input.caixa {
+margin-top: 50px;
+outline: none;
+color: rgba(0,0,0,0.7);
+border: none;
+border-bottom: 0.5px solid #457b9d;
+width: 350px;
+}
+
+h1{
+text-align: center;
+}
+
+div.caixas{
+text-align: center;
+}
+
+button.btnExcuir{
+position: absolute;
+left: 5px;
+}
+
+img.sucesso{
+position:absolute;
+left: 580px;
+right: 580px; 
+top: 125px;
+}

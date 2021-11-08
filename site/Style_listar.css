@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2? family = Work + Sans & display = swap');
+
+div.container{
+    
+    position: absolute;
+    
+    left: 525px;
+    top: 50px;
+    width: 960px;
+    height: 1500px;
+    margin-bottom: 30px ;
+   
+}
+
+div.titulo{
+background-color: #457b9d;
+margin-bottom: 30px;
+margin-top: 0px;
+border-radius: 5px;
+color: white;
+font-family:  Work Sans, sans-serif;
+font-size: 50px;
+line-height: 77px;
+}
+
+h1{
+text-align: center;
+}
+
+div.btnVoltar{
+color:#457b9d;
+}
+table.table th{
+    text-align: center; 
+    background-color: #E63946
+}
+
+
+div.nome, .codigo,.email,.excluir,.atualizar,.apelido{
+    width:160px;
+
+}
+   
+           

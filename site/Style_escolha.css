@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2? family = Work + Sans & display = swap');
+
+
+body{
+    font-family: Work Sans, sans-serif;
+}
+div.container{
+    position:absolute;
+    width: 1000px;
+    height: 500px;
+    left: 500px;
+    top: 200px;
+}
+div.titulo{
+font-size: 50px;
+line-height: 77px;
+border-radius: 10px;
+border-color: white ;
+background-color: #457b9d;
+}
+h1{
+    margin-left: 325px;
+    color: white;
+}
+div.caixas{
+    display: flex;
+}
+div.caixa1{
+    width:50%;
+    background-color:#fefae0;
+    border-right: 20px solid white;
+    border-radius: 10px;
+}
+img{
+    margin-left:150px;
+    margin-right: 150px;
+    width: 40%;
+}
+div.caixa2{
+    width:50%;
+    background-color:#fefae0;
+    border-left: 20px solid white;
+    border-radius: 10px;
+}
+p.txtadd{
+    margin-left: 200px;  
+    margin-right: 200px;
+    font-family: Work Sans, sans-serif;
+    font-size: 20px;
+}
+p.txtlistar{
+    margin-left: 200px;  
+    margin-right: 200px;
+    font-family: Work Sans, sans-serif;
+    font-size: 20px;
+}
+
+div.caixa2:hover {
+letter-spacing: 0.5px;
+background:  transparent;
+}
+div.caixa1:hover {
+    letter-spacing: 0.5px;
+    background:  transparent;
+    }
+    

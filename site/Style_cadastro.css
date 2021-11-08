@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2? family = Work + Sans & display = swap');
+
+div.container{
+    position: absolute;
+    left: 690px;
+    top: 200px;
+    width: 500px;
+    height: 450px;
+    margin-bottom: 30px ;
+}
+
+div.txttitulo{
+background-color: #457b9d;
+margin-bottom: 30px;
+margin-top: 0px;
+border-radius: 5px;
+color: white;
+font-family:  Work Sans, sans-serif;
+font-size: 50px;
+line-height: 77px;
+}
+
+input.caixa_id{
+font-family:  Work Sans, sans-serif;
+font-size: 15px;  
+color: black;
+border: none;
+border-bottom: 0.5px solid #457b9d;
+width: 350px;
+}
+
+input.caixa {
+margin-top: 50px;
+outline: none;
+color: rgba(0,0,0,0.7);
+border: none;
+border-bottom: 0.5px solid #457b9d;
+width: 350px;
+}
+
+h1{
+text-align: center;
+}
+
+div.caixas{
+text-align: center;
+}
+
+button{
+background-color:#457b9d ;
+color: white;
+font-family:  Work Sans, sans-serif;
+font-size: 25px;
+border: 1px solid #457b9d;
+border-radius: 5px;
+position: absolute;
+right: 3px;
+margin-top: 50px;
+}
+
+button:hover {
+letter-spacing: 0.5px;
+background:  transparent;
+color: #457b9d;
+}
+
+div.btnVoltar{
+color:#457b9d;
+}
+
+img.image_sucesso{
+margin-left: 500px;
+top: 20px;
+}
